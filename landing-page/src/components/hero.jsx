@@ -29,7 +29,7 @@ function Hero() {
         backgroundSize: 'cover',
         backgroundPosition: 'center', 
         width: '100vw',
-        height: '100vh', // Adjust the height as needed
+        height: '100vh',
       }}
       className="flex items-center justify-center text-white"
     >
